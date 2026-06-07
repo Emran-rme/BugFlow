@@ -1,0 +1,6 @@
+@BugFlow_HostAddress = http://localhost:5047
+
+GET {{BugFlow_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
